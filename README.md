@@ -7,12 +7,10 @@
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-<br>
-
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
-
+<br><br>
 - 🌱 I’m currently learning **Python, React**
 
 - 👨‍💻 All of my projects are available at <a href="https://drive.google.com/drive/folders/1AVXSpaGAA74ojzw-TtHTHH7G-4ITc1Jk](https://drive.google.com/drive/folders/1AVXSpaGAA74ojzw-TtHTHH7G-4ITc1Jk">My Resume</a>
