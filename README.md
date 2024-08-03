@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Python, React**
 
-- 👨‍💻 All of my projects are available at <a href="https://drive.google.com/file/d/1j3z76jzr7WvvKm6hePdelcuErqF_FNHB/view?usp=sharing">My Resume</a>
+- 👨‍💻 All of my projects are available at <a href="https://drive.google.com/file/d/19c1qXT25G_9vA7GnsT--pBOGksOyihHb/view?usp=sharing">My Resume</a>
 
 - 💬 Ask me about <a href="https://wa.me/94786811063" target="_blank">WhatsApp</a>
 
